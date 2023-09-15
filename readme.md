@@ -12,6 +12,8 @@
 |Devices (Mobile and PCs)|C|C|C|C|responsability always retained by customer|
 |Accounts nand identify|C|C|C|C|responsability always retained by customer|
 
+![image](https://github.com/ju4nmoreno/Azure-notes/blob/main/shared%20responsibility%20model.png)
+
 - define cloud models, including public, private, and hybrid
 - identify appropriate use cases for each cloud model
 - describe the consumption-based model
