@@ -203,4 +203,15 @@
         - <b>ExpressRoute Monitor</b>
         - <b>Azure Monitor</b>
 - Storage services
+    - the Azure Storage account
+    - <b>General Purpose v2 (gpv2)</b> is the most common type
+    - <b>Azure Data Lake Storage Gen2</b>
+    - Cheapest type of storage
+    - Pay per GB(~1.8 cents per GB)
 - Database services
+
+### Describe Azure management and governance
+- Describe const management in Azure - total cost ownershipt(TCO) calculator
+- Describe features and tools in Azure for governance and compliance
+- Describe features and tools for managing and deploying Azure resources
+- Describe monitoring tools in Azure
